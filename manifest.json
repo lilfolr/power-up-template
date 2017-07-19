@@ -1,11 +1,11 @@
 {
-  "name": "Static Template",
-  "description": "",
-  "details": "A static sample Power-Up hosted on GitHub pages. Feel free to fork [this repository](https://github.com/trello/power-up-template) as a starting point for your own Power-Up.",
+  "name": "YouTrack",
+  "description": "Integration with jetbrains YouTrack",
+  "details": "Allowing the linking of trello cards with YouTrack issues",
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "Trello Inc",
+  "author": "Leighton Lilford",
   "capabilities": [
     "attachment-sections",
     "attachment-thumbnail",
